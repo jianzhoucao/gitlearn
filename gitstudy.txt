@@ -3,3 +3,4 @@ second para chagend;
 go the website,please
 openGL
 git has a mutable index called stage.
+git tracks changes
